@@ -1,2 +1,2 @@
 # clicktocall
-Simple Swift program to make phone call.
+Simple Swift app to make phone call from input.
